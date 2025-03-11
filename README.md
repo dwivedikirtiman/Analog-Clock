@@ -24,7 +24,7 @@ This project is a simple yet visually appealing Analog Clock designed using HTML
 
 - Clone this repository:
 
-   ```git clone <repo-link>```
+   ```git clone https://github.com/dwivedikirtiman/Analog-Clock.git```
 
 Open the ```index.html``` file directly in your browser.
 
